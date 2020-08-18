@@ -1,4 +1,4 @@
-# Bayesianoptimization using emukit
+# Bayesian Optimization using emukit
 To install emukit, simply run:
 `pip install emukit`
 For more info, see https://github.com/amzn/emukit
