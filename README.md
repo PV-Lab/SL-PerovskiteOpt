@@ -5,7 +5,7 @@ When use the code for any scientific publications or conferences, please cite ou
 
 Z. Liu, N. Rolston, A. C. Flick, T. Colburn, Z. Ren, R. H. Dauskardt, and T. Buonassisi, "Machine learning with knowledge constraints for process optimization of open-air perovskite solar cell manufacturing," 2021, arXiv:2110.01387. [Online] Available: arxiv.org/abs/2110.01387
 
-Some key packages (and their versions) involved to run this code as follows:
+Some key packages (and their versions) involved to run this code are as follows:
 
 GPy 1.10.0
 
