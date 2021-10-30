@@ -7,9 +7,11 @@ Z. Liu, N. Rolston, A. C. Flick, T. Colburn, Z. Ren, R. H. Dauskardt, and T. Buo
 
 Some key packages (and their versions) involved to run this code are as follows:
 
-GPy 1.10.0
+GPy 1.10.0   
+For more info, see https://github.com/SheffieldML/GPy
 
-emukit 0.4.9
+emukit 0.4.9      
+For more info, see https://github.com/amzn/emukit
 
 pyDOE 0.3.8
 
