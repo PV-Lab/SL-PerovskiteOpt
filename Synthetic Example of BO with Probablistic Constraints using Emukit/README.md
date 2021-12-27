@@ -1,4 +1,4 @@
-# Bayesian Optimization with Two Probablistic Constraints using Emukit
+# Bayesian Optimization with Two Probabilistic Constraints using Emukit
 To install emukit, simply run:
 `pip install emukit`
 For more info, see https://github.com/amzn/emukit
