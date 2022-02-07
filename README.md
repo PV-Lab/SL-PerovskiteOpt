@@ -1,7 +1,6 @@
 # SL-PerovskiteOpt
-This code is written by Zhe Liu (Massachusetts Institute of Technology)
+This code is written by Zhe Liu at Massachusetts Institute of Technology (MIT), USA.
 ORCID：https://orcid.org/0000-0001-7268-6214
-
 
 When using the code for any scientific publications or conferences, please cite our research article as:
 
